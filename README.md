@@ -3,9 +3,10 @@
 Official implementation of **YOPO** from the paper:
 
 **You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation**  
-Hakjin Lee, Junghoon Seo, Jaehoon Sim  
-arXiv: https://arxiv.org/abs/2508.14965  
-Project page: https://mikigom.github.io/YOPO-project-page/
+[Hakjin Lee](https://scholar.google.com/citations?user=GIdEXLsy77UC), [Junghoon Seo](https://mikigom.github.io/), [Jaehoon Sim](https://www.linkedin.com/in/jaehoon-sim-801404175/)
+
+[\[arXiv\]](https://arxiv.org/abs/2508.14965) 
+[\[Project page\]](https://mikigom.github.io/YOPO-project-page/)
 
 This paper is accepted to **IEEE ICRA 2026**.
 
